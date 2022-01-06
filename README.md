@@ -1,2 +1,3 @@
 # probleme_asamblare
-Probleme numerotate din cartea Calculatoare numerice.Aplicatii - Horia V. Caprita, Ioan Z. Mihu (Editura Universitatii 'Lucian Blaga' Sibiu 2008)
+
+4.1 Semnificatia bitilor octetului de la adresa 0040:0017H reflecta starea anumitor taste. Sa se examineze acesti biti cu ajutorul programului de citire a unui cuvant din memorie pentru diferite stari ale tastelor.
